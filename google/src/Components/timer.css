@@ -1,0 +1,31 @@
+button{
+    color: white;
+    background-color:coral;
+    padding: 10px;
+    border: 0.5px solid black;
+    cursor: pointer;
+    font-size: 20px;
+    
+   }
+   .buttongroup{
+    
+    margin-top: 40px;
+    width: 170px;
+    display: flex;
+    
+    justify-content: space-around;
+    margin-left: 10px;
+    
+   }
+    .smallbox{
+     margin-top: 50px;
+    }
+    .output{
+     margin-left: -300px;
+     font-size: 20px;
+     box-sizing: border-box;
+    }
+    .head{
+     margin-top: -50px;
+    }
+     
