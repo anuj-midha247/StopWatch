@@ -18,7 +18,7 @@ StopWatch is a website in which we can use stopwatch and timer , this was an ass
 I have applied various react tricks i.e. hooks,useRef,useState,useEffect   .
 
 ## Conclusion 📑
-In this project ,I applied aal my learnings of React Hooks and Basics to achieve the output i.e. working StopWatch and Timer. 
+In this project ,I applied all my learnings of React Hooks and Basics to achieve the output i.e. working StopWatch and Timer. 
  
 
 
